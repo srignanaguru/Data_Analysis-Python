@@ -5,8 +5,8 @@ The dataset used in this project contains:
 - **Product details** (Product_ID, Product_Category, Amount)
 - **Purchase behavior** (Orders, Amount)
 
-\. Data Cleaning & Preprocessing  
-\. Exploratory Data Analysis (EDA)  
-\. Sales Trends & Top-Selling Products  
-\. Data Visualization with `Seaborn` & `Matplotlib`  
+- Data Cleaning & Preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Sales Trends & Top-Selling Products  
+- Data Visualization with `Seaborn` & `Matplotlib`  
 

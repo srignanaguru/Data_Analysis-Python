@@ -5,6 +5,7 @@ The dataset used in this project contains:
 - **Product details** (Product_ID, Product_Category, Amount)
 - **Purchase behavior** (Orders, Amount)
 
+**Process involved:**
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Sales Trends & Top-Selling Products  
